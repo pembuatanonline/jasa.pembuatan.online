@@ -1,0 +1,19 @@
+FEDERATION_SERVER="https://api.stellar.org/federation" 
+
+ACCOUNTS=["", 
+""
+] 
+
+[DOCUMENTATION] 
+ORG_NAME="Jasa Pembuatan Online" 
+ORG_URL="https://jasa.pembuatan.online" 
+ORG_LOGO="https://jasa.pembuatan.online/logo.png" 
+
+[[CURRENCIES]] 
+code="JASA" 
+issuer="" 
+status="live" 
+name="JASA" 
+desc="There will be only 1,000,000 JASA existed on SDEX for investors which will generate dividends as much as 2.5% per month for 10 years. The dividends send regularly to investor wallets every month." 
+display_decimals=2 
+image="https://jasa.pembuatan.online/logo.png" 
